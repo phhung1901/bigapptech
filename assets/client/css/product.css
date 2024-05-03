@@ -1,0 +1,65 @@
+#carousel-product {
+    margin: 20px auto;
+    width: 100%;
+}
+
+#carousel-product .carousel-item {
+    max-height: 200px;    
+}
+
+#carousel-product .carousel-indicators {
+    margin: 10px 0 0;
+    overflow: auto;
+    position: static;
+    text-align: left;
+    white-space: nowrap;
+    width: 100%;
+}
+#carousel-product .carousel-indicators li {
+    background-color: transparent;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    display: inline-block;
+    height: auto;
+    margin: 0 !important;
+    width: auto;
+}
+#carousel-product .carousel-indicators li img {
+    display: block;
+    opacity: 0.5;
+    max-height: 100px;
+    width: auto;
+}
+#carousel-product .carousel-indicators li.active img {
+    opacity: 1;
+}
+#carousel-product .carousel-indicators li:hover img {
+    opacity: 0.75;
+}
+#carousel-product .carousel-outer {
+    position: relative;
+}
+
+#product-content {
+    width: 100%;
+}
+/*
+     FILE ARCHIVED ON 02:21:41 Oct 21, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:30:11 May 02, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.589
+  exclusion.robots: 0.067
+  exclusion.robots.policy: 0.058
+  cdx.remote: 0.054
+  esindex: 0.01
+  LoadShardBlock: 232.592 (3)
+  PetaboxLoader3.resolve: 174.285 (4)
+  PetaboxLoader3.datanode: 98.952 (4)
+  load_resource: 65.613
+*/

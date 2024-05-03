@@ -1,0 +1,126 @@
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+@media all and (min-width: 320px) {
+    .carousel-inner{
+        width: 100%;
+    }
+    .carousel-item {
+        height: 13vh;
+        min-height: 120px;
+    }
+    .my-4{
+        font-size: 20px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    #testomination{
+        display: none;
+    }
+    .call-now-img{
+        width: 120px;
+    }
+}
+/* Dành cho máy tính bảng chiều dọc */
+@media all and (min-width: 600px) {
+    .carousel-inner{
+        width: 90%;
+    }
+    .carousel-item {
+        height: 21vh;
+        min-height: 190px;
+    }
+    .my-4{
+        font-size: 20px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    #testomination{
+        display: block;
+    }
+    .call-now-img{
+        width: 140px;
+    }
+}
+ 
+/* Dành cho máy tính bảng chiều ngang */
+@media all and (min-width: 1024px) {
+    .carousel-inner{
+        width: 90%;
+    }
+    .carousel-item {
+        height: 40vh;
+        min-height: 200px;
+    }
+    .my-4{
+        font-size: 20px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    #testomination{
+        display: block;
+    }
+    .call-now-img{
+        width: 150px;
+    }
+}
+ 
+/* Dành cho màn hình desktop */
+@media all and (min-width: 1280px) {
+    .carousel-inner{
+        width: 90%;
+    }
+    .carousel-item {
+        height: 60vh;
+        min-height: 300px;
+    }
+    #testomination{
+        display: block;
+    }
+    .call-now-img{
+        width: 150px;
+    }
+}
+/*
+     FILE ARCHIVED ON 00:09:01 Oct 21, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:30:11 May 02, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.734
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.068
+  cdx.remote: 0.125
+  esindex: 0.011
+  LoadShardBlock: 137.473 (3)
+  PetaboxLoader3.datanode: 72.079 (4)
+  PetaboxLoader3.resolve: 484.372 (2)
+  load_resource: 427.172
+*/

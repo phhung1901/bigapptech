@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Sitemap: https://bigapptech.com/sitemap.xml
+Allow: /*.js$
+Allow: /*.css$
